@@ -4,7 +4,7 @@ student_name = "Prithvi"
 final_message = course_objective + " - " + student_name
 
 # int
-int_num = 21
+int_num = 22
 
 # float
 float_num = 23.0
